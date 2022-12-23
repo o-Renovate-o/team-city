@@ -1,0 +1,7 @@
+C:\Users\Leonid\source\repos\Factorial _lab5\Factorial _lab5\bin\Debug\Factorial _lab5.exe.config
+C:\Users\Leonid\source\repos\Factorial _lab5\Factorial _lab5\bin\Debug\Factorial _lab5.exe
+C:\Users\Leonid\source\repos\Factorial _lab5\Factorial _lab5\bin\Debug\Factorial _lab5.pdb
+C:\Users\Leonid\source\repos\Factorial _lab5\Factorial _lab5\obj\Debug\Factorial _lab5.csproj.AssemblyReference.cache
+C:\Users\Leonid\source\repos\Factorial _lab5\Factorial _lab5\obj\Debug\Factorial _lab5.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\source\repos\Factorial _lab5\Factorial _lab5\obj\Debug\Factorial _lab5.exe
+C:\Users\Leonid\source\repos\Factorial _lab5\Factorial _lab5\obj\Debug\Factorial _lab5.pdb
